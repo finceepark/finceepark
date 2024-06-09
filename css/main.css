@@ -1,0 +1,264 @@
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+body {
+    background: url(img2/background3.png);
+    margin: 0px;
+}
+
+#main-container {
+    margin: auto;
+    width: 70%;
+}
+
+#navbar {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+#navbar ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar li {
+    display: inline;
+    float: left;
+}
+
+#navbar a {
+    display: block;
+    padding: 11px 40px;
+    background-color: #00000000;
+    color: #fff;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: rgb(160, 3, 29);
+    font-weight: bold;
+}
+
+#jumbotron {
+    height: 300px;
+    background-color:#000000;
+    border-radius: 13px;
+    border: 2px solid lightgoldenrodyellow;
+    box-shadow: 5px 5px 5px lightblue;
+}
+
+.paragraph-1 {
+    text-align: center;
+    color: #fff;
+          
+}
+
+.nav-border {
+    border: solid black;
+    border-radius: 12px;
+
+}
+
+.h1 {
+    font-family: "Jersey 15 Charted", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.paragraph-1 {
+    font-family: "Platypi", serif;
+      
+}
+
+.footer {
+    text-align: center;
+    margin: 207px;
+    color: #fff;
+}
+
+
+
+.container { 
+    display: flex; 
+    justify-content: space-between; 
+    max-width: 95%; 
+    margin: 0 auto; 
+    padding: 20px;
+} 
+
+article p { 
+    text-align: justify; 
+} 
+
+main { 
+    flex: 2; 
+} 
+
+article { 
+    margin-bottom: 20px; 
+    padding: 10px 20px; 
+    border: 5px solid black;
+    border-radius: 13px; 
+    margin-right: 10px;
+    background-color: #4ea7ff; 
+} 
+
+aside { 
+    flex: 1; 
+    background-color: #c9c9c9; 
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 13px; 
+}
+
+
+
+.jumbotron-g {
+    height: 800px;
+    background-color:#000000;
+    border-radius: 13px;
+    border: 2px solid lightgoldenrodyellow;
+}
+
+h2 {
+    color: black;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: white;
+  }
+
+  .paragraph-2 {
+    text-align: center;
+    color: #fff;
+    font-family: "Platypi", serif;
+  }
+
+  hr {
+    border: solid 1px lightgoldenrodyellow;
+  }
+
+  .latest {
+    height: 50px;
+    background-color: #000000;
+    border: 2px solid lightgoldenrodyellow;
+    border-radius: 13px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px lightblue;
+  }
+
+  .latest-p {
+    font-family: "Platypi", serif; 
+    text-align: center;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+  }
+
+ 
+
+  .play {
+    position: relative;
+    bottom: 43px;
+    left: 20px;
+  }
+
+  .spotify {
+    position: relative;
+    bottom: 80px;
+    left: 80px;
+  }
+
+  .pic {
+    float: left;
+    width: 200px;
+    height: 200px; 
+    border: 2px solid lightgray;
+    position: relative;
+    bottom: 40px;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .pic2 {
+    float: right;
+    position: relative;
+    bottom: 40px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 5px black;
+  }
+
+  .spotify-em {
+    margin-top: 30px;
+    border: 5px double lightseagreen;
+    border-radius: 20px;
+  }
+
+  .paragraph-1-2 {
+    text-align: center;
+    color: #fff;
+    font-family: "Platypi", serif;
+    padding: 20px;
+  }
+
+  .paragraph-index {
+    text-align: center;
+    color: #fff;
+    font-family: "Platypi", serif;
+    padding: 10px;
+  }
+
+  .blog-p {
+    font-family: "Roboto", sans-serif;
+  }
+
+  .post-meta {
+    font-family: "Jersey 10", serif;
+    text-shadow: 2px 2px 2px #fff;
+  }
+
+  .entry-title {
+    font-family: "Jersey 10", serif;
+    color: black;
+    text-shadow: 2px 2px 2px #fff;
+  }
+
+  .pic:hover {
+    border: outset;
+  }
+
+  .pic2:hover {
+    border: outset;
+  }
+
+  .email {
+    text-align: center;
+  }
+
+  .link {
+    color: lightblue;
+  }
